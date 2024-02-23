@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<sys/socket.h>
+#include<newinet/in.h>
+int main(){
+int sd,cd;//server descriptor and client descriptor
+
+
